@@ -1,0 +1,12 @@
+pillow==9.4.0
+transformers==4.27.3
+requests==2.28.2
+torch==2.0.0
+ultralytics==8.0.111
+numpy==1.24.3
+opencv-python-headless==4.7.0.72
+ftfy
+regex
+tqdm
+-e git+https://github.com/openai/CLIP.git#egg=CLIP
+faiss-gpu==1.7.2
